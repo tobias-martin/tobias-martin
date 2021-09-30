@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tobias-martin
+- 👀 By profession I’m interested in philosophy, especially in argumentation, logic, ontology, and semantics
+- 💞️ I collaborate on argumentation.online
+- 📫 tobias DOT martin AT uni-muenster DOT de
